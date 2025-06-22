@@ -7,9 +7,8 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/home/arjun/Projects/Self/privacy-policy"
+publish = "/Users/arjunghimire/Projects/Self/Extra/privacy-policy"
 publishOrigin = "default"
-commandOrigin = "heuristics"
 
 [build.environment]
 
